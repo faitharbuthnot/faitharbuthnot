@@ -2,17 +2,14 @@
   <img src="banner.png" alt="Faith Arbuthnot GitHub Banner" width="100%">
 </p>
 
-<!--
-**faitharbuthnot/faitharbuthnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Faith :)
 
-Here are some ideas to get you started:
+I'm currently studying Bioinformatics & Computational Biology and I'm especially interested in the software side of the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of what you'll find here is me learning by building. Bioinformatics tools, programming projects, small experiments, and whatever else helps me become a better developer.
+
+## Things I work with:
+'Python' 'C' 'Java' 'R' 'Bash' 'Linux' 'Git'
+
+## Projects:
+Coming soon! ✨
